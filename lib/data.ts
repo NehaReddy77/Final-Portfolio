@@ -97,7 +97,7 @@ export const projectsData = [
     "Performed ETL on taxi trip record data by leveraging GCP VM Instance and loaded data into Google Big Query. Displayed dashboards demonstrating key performance indicators to analyze customer behavior, peak hours, traffic route optimization.",
     tags: ["Pandas", "GCP", "Big Query", "Maze Pipelines"],
     imageUrl: da,
-    githubLink: "https://github.com/NehaReddy77/Driver_Drowsiness_Detection",
+    githubLink: "https://lookerstudio.google.com/reporting/2a3f946e-d4f6-4b87-af04-c344dc9824c4/page/mhAgD",
   },
   {
     title: "Food Donor Android App",
