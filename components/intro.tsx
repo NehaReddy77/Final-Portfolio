@@ -67,7 +67,7 @@ export default function Intro() {
   </span>
 
   <span className="text-lg sm:text-2xl">
-  A CS grad student, full-stack developer with 2 years of work experience. I enjoy
+  A full-stack developer with 5 years of work experience. I enjoy
   building sites & apps. I am currently in look out for Full time positions in Software Engineering.</span>
 </motion.h1>
 
